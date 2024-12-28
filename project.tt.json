@@ -1,0 +1,9 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "page-scroll-bug",
+  "appid": "testAppId",
+  "setting": {
+    "es6": false,
+    "minified": false
+  }
+}
